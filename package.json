@@ -1,0 +1,52 @@
+{
+  "_from": "rj-console-log",
+  "_id": "rj-console-log@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-CzByLIkyGmTiM7LtyyGPZ2is4W2J6Hbp0rgMIaEy2f6QUNXE6EFn4T8PR5PeCeavQY1UoMjr65vxWgneRIv4Vg==",
+  "_location": "/rj-console-log",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "rj-console-log",
+    "name": "rj-console-log",
+    "escapedName": "rj-console-log",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/rj-console-log/-/rj-console-log-1.0.0.tgz",
+  "_shasum": "3d7b990bbafb9203332f0714f4e1d121c82982c5",
+  "_spec": "rj-console-log",
+  "_where": "C:\\Users\\RJHA1\\Desktop\\RJ\\nj\\test",
+  "author": {
+    "name": "Rohitkumar Jha"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "To print console log messages.",
+  "keywords": [
+    "rj-console-log",
+    "rj",
+    "console-log",
+    "console",
+    "log",
+    "log message",
+    "console message",
+    "message",
+    "success",
+    "info",
+    "warning",
+    "error",
+    "print",
+    "print message"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "rj-console-log",
+  "version": "1.0.0"
+}

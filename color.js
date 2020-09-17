@@ -1,0 +1,6 @@
+module.exports.blue='blue'
+module.exports.yellow='yellow'
+module.exports.red='red'
+module.exports.cyan='cyan'
+module.exports.green='green'
+module.exports.magenta='magenta'
